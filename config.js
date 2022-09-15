@@ -1,6 +1,6 @@
 ﻿let fs = require('fs')
-global.owner = ['60199782326'] // Letakan nomor kamu disini
-global.mods = ['60199782326'] // Moderator?
+global.owner = ['6289510023459'] // Letakan nomor kamu disini
+global.mods = ['6289510023459'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -29,7 +29,7 @@ global.APIKeys = { // APIKey nya disini
 
 // Sticker WM
 global.packname = 'I Am'
-global.author = 'Itsuki'
+global.author = 'SenxBot'
 
 global.wait = 'Lemme process this shit'
 global.eror = 'Mengerrorr...'
